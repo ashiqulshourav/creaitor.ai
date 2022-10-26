@@ -202,7 +202,7 @@ html {
     background-color: #1f1d2c;
     z-index: 9999;
     transition: 0.3s width ease-in-out;
-    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 .menubar:hover {
